@@ -1,0 +1,5 @@
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\bin\Release\Clock.dll
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\bin\Release\Clock.pdb
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Release\Clock.csproj.CoreCompileInputs.cache
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Release\Clock.dll
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Release\Clock.pdb

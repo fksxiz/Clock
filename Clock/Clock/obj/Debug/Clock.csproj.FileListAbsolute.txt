@@ -1,0 +1,12 @@
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\bin\Debug\Clock.dll
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\bin\Debug\Clock.pdb
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Debug\Clock.dll
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Debug\Clock.pdb
+D:\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+\\41-02\d\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\bin\Debug\Clock.dll
+\\41-02\d\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\bin\Debug\Clock.pdb
+\\41-02\d\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+\\41-02\d\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+\\41-02\d\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Debug\Clock.dll
+\\41-02\d\3-ИС-3\Малышкин Иван\project\Clock\Clock\Clock\obj\Debug\Clock.pdb
